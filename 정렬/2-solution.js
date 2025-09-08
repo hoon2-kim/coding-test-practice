@@ -1,3 +1,4 @@
+// 정답 풀이
 function solution(tickets) {
   if (!tickets.length) return 0;
 
